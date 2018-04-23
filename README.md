@@ -15,19 +15,25 @@ The Database file name is [db.sql](https://github.com/indracahyae/mappingSMK_Mob
 ##  Screen Shoot of Application
 Login Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/login.png) 
-<br>
+<br><br>
 Sign up Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/signUp.png) 
-<br>
+<br><br>
 Home Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/homee.png) 
-<br>
+<br><br>
 Drawer Menu <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/drawerMenu.png) 
-<br>
+<br><br>
 User profile page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/userProfil.png) 
-<br>
+<br><br>
 Edit User Profile <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/editProfile.png) 
-<br>
+<br><br>
+List of Schools <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/listSchools.png) 
+<br><br>
+Detail of School <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/detailSchool.png) 
+<br><br>
