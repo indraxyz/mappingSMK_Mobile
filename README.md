@@ -1,0 +1,1 @@
+# mapping app of Senior Hight Schools (mobile base for Users)
