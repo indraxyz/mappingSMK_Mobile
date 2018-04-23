@@ -1,6 +1,6 @@
 // http url
 export default {
-	baseUrl: 'http://192.168.1.88/pemetaansmk/public/',
+	baseUrl: 'http://192.168.42.37/pemetaansmk/public/',
 	
 }
 
