@@ -17,11 +17,11 @@ Login Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/login.png) 
 <br>
 Sign up Page <br>
-![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/sign%20up.png) 
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/signUp.png) 
 <br>
 Home Page <br>
-![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/home.png) 
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/homee.png) 
 <br>
 Drawer Menu <br>
-![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/drawer%20menu.png) 
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/drawerMenu.png) 
 <br>
