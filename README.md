@@ -13,6 +13,15 @@ The Database file name is [db.sql](https://github.com/indracahyae/mappingSMK_Mob
 * [react-navigation](https://reactnavigation.org) (react native navigation)
 
 ##  Screen Shoot of Application
-This is a login page.
-![login page](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/login.png?raw=true)
-<br><br>
+Login Page <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/login.png) 
+<br>
+Sign up Page <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/sign%20up.png) 
+<br>
+Home Page <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/home.png) 
+<br>
+Drawer Menu <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/drawer%20menu.png) 
+<br>
