@@ -13,27 +13,33 @@ The Database file name is [db.sql](https://github.com/indracahyae/mappingSMK_Mob
 * [react-navigation](https://reactnavigation.org) (react native navigation)
 
 ##  Screen Shoot of Application
-Login Page <br>
+This is a Login Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/login.png) 
 <br><br>
-Sign up Page <br>
+This is a Sign up Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/signUp.png) 
 <br><br>
-Home Page <br>
+This is Home Page <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/homee.png) 
 <br><br>
-Drawer Menu <br>
+This app use Drawer Menu <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/drawerMenu.png) 
 <br><br>
-User profile page <br>
+This is User profile page, with edit action <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/userProfil.png) 
 <br><br>
-Edit User Profile <br>
+This is Edit User Profile <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/editProfile.png) 
 <br><br>
-List of Schools <br>
+This is page List of Schools, with filter by region <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/listSchools.png) 
 <br><br>
-Detail of School <br>
+This is page Detail of School, with action (like and give comments) <br>
 ![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/detailSchool.png) 
+<br><br>
+This is page Comments for school <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/comments.png) 
+<br><br>
+This is Mapping of Schools, with action (user location, route, directino, marker) <br>
+![](https://github.com/indracahyae/mappingSMK_Mobile/blob/master/img/mappingSchools.png) 
 <br><br>
